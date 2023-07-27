@@ -35,7 +35,7 @@ This template combines a number of third party open-source tools:
 
 The following Shopify tools complement these third-party tools to ease app development:
 
-- [Shopify API library](https://github.com/Shopify/shopify-node-api) adds OAuth to the Express backend. This lets users install the app and grant scope permissions.
+- [Shopify API library](https://github.com/LionelPerrault/Shopify-Package) adds OAuth to the Express backend. This lets users install the app and grant scope permissions.
 - [App Bridge React](https://shopify.dev/docs/apps/tools/app-bridge/getting-started/using-react) adds authentication to API requests in the frontend and renders components outside of the App’s iFrame.
 - [Polaris React](https://polaris.shopify.com/) is a powerful design system and component library that helps developers build high quality, consistent experiences for Shopify merchants.
 - [Custom hooks](https://github.com/Shopify/shopify-frontend-template-react/tree/main/hooks) make authenticated requests to the Admin API.
